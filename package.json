@@ -1,5 +1,5 @@
 {
-  "name": "rm-time-utils",
+  "name": "@roommate/rm-time-utils",
   "version": "1.0.0",
   "description": "Time utils for timezone handling and more",
   "main": "lib/index.js",
@@ -23,6 +23,9 @@
     "type": "git",
     "url": "git+https://github.com/RoomMateFamily/rm-time-utils.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },  
   "keywords": [],
   "author": "Matteo Bucci",
   "license": "ISC",
